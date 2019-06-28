@@ -1,0 +1,7 @@
+tornado==4.5.1
+futures==3.1.1
+DBUtils==1.2
+configparser==3.5.0
+pymysql==0.9.2
+simplejson==3.16.0
+ansible==2.7.10
